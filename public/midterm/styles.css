@@ -1,0 +1,78 @@
+.nav-link {
+  padding: 0 1em;
+}
+
+.navbar {
+  padding: 0;
+}
+
+#jumbo-text {
+  padding-top: 0.5em;
+  margin-bottom: 1em;
+  text-shadow: 2px 2px 4px black;
+}
+
+#jumbo-subtitle {
+  padding-bottom: 12px;
+  display: block;
+  padding-top: 8px;
+  text-shadow: 1px 1px 3px black;
+}
+
+#email-wrapper {
+  min-width: 100px;
+  max-width: 400px;
+  width: auto;
+  margin: 0 auto;
+}
+
+#nav-items {
+  width: 50vw;
+  font-family: 'Barlow', sans-serif;
+  font-size: 13pt;
+}
+
+#jumbo {
+  background-image: url(images/stethoscope.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+}
+
+#heading {
+  font-size: 50pt;
+  font-weight: bold;
+  font-family: 'Spectral', serif;
+}
+
+#heading2, #heading3, #heading4 {
+  font-family: 'Spectral', serif;
+}
+
+#list1, #list2 {
+  list-style-image: url(images/red-heart-list-bullet.png);
+  font-family: 'Barlow', sans-serif;
+}
+
+#days {
+  border-bottom: 3px solid black;
+}
+
+#instructor {
+  display: block;
+  margin-top: 0.5em;
+}
+
+#class-time1 {
+  margin-top: 1em;
+  display: block;
+}
+
+.read-more {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 100;
+  margin-right: 0;
+}
